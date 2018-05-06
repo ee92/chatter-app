@@ -1,0 +1,14 @@
+{
+  "name": "chatter-app",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "live-server src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}

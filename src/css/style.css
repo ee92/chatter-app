@@ -1,0 +1,33 @@
+#avatar {
+  max-height: 35px;
+  display: none;
+}
+
+#new-room {
+  display: none;
+}
+
+#logout {
+  display: none;
+}
+
+#emailHelp {
+  display: none;
+}
+
+#emailInvalid {
+  display: none;
+}
+
+#passwordHelp {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #nav-buttons {
+    text-align: center;
+  }
+  #nav-buttons > ul > li {
+    padding: 5px;
+  }
+}
